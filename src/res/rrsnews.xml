@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="gbk"?>
+
+<rss version="2.0">
+  <channel>
+    <title>百度国内焦点新闻</title>
+  </channel>
+  <image>
+    <title>news.baidu.com</title>
+    <link>http://news.baidu.com</link>
+    <url>http://img.baidu.com/img/logo-news.gif</url>
+  </image>
+</rss>
